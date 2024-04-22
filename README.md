@@ -1,6 +1,6 @@
 # belajar_flutter
 
-A new Flutter project.
+MONEY TRACKER APP FLUTTER PROJECT.
 
 ## Getting Started
 
